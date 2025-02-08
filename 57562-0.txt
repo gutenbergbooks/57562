@@ -1,32 +1,7 @@
-The Project Gutenberg EBook of Painting by Immersion and by Compressed Air, by 
-Arthur Seymour Jennings
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: Painting by Immersion and by Compressed Air
-       A Practical Handbook
-
-Author: Arthur Seymour Jennings
-
-Release Date: July 21, 2018 [EBook #57562]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK PAINTING BY IMMERSION ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57562 ***
 
 
 
-
-Produced by Chris Curnow, Alan and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
 
 
 
@@ -810,13 +785,13 @@ An erroneous idea prevails in some quarters that to install a paint
 dipping or a paint spraying plant will involve a considerable
 expenditure. As a matter of fact, if the work is of a simple character,
 and the articles to be dealt with small, an expenditure of something
-like £25 will be sufficient for the purpose. For example, a small tank,
+like Â£25 will be sufficient for the purpose. For example, a small tank,
 with a draining board attached, would cost less than the sum mentioned,
 even when the overhanging plant was included. As such work is usually
 done in engineering shops, the lifting apparatus and the rails, can
 easily be made on the premises. In some cases the lifting plant even
 might be dispensed with, and the articles, such as paint cans, could be
-dipped by hand. A spraying plant need not be expensive, and £25 to £40
+dipped by hand. A spraying plant need not be expensive, and Â£25 to Â£40
 will cover the expense of spraying apparatus, compressor for air spray,
 exhaust and everything else. This, however, refers to a small plant.
 More extensive installations would, of course, cost very much more,
@@ -1384,7 +1359,7 @@ to its correct position in the track of the runway, the trolley is run
 off the movable portion on to the track beyond the tank, and left there
 to dry.
 
-These overhead runways can be made to suit loads from 2½ cwts. up
+These overhead runways can be made to suit loads from 2Â½ cwts. up
 to 10 tons, so that the system covers all classes of work, since it is
 seldom that it would be necessary to dip articles weighing more than 10
 tons.
@@ -1642,7 +1617,7 @@ BEDSTEADS.
 
 The methods adopted for the class of work will, of course, depend upon
 the quality of the finish required. Cheap bedsteads may be done by
-dipping in one coat of black japan and stoving at 350° F. In better
+dipping in one coat of black japan and stoving at 350Â° F. In better
 class work several coats may be applied either by dipping or spraying,
 and each may be rubbed down after stoving. If a good enamel is used
 this is unnecessary.
@@ -1688,9 +1663,9 @@ castings are dipped into a black metallic coating thinned with 62%
 benzine to a specific gravity 850. They are then dipped with two coats
 of finishing japan (sp. gr. 830) flatted with powdered pumice after
 each coat and leathered off. The parts which are not plated or flatted
-are given 5 hours stoving at 325° F., and are then rubbed with pumice
+are given 5 hours stoving at 325Â° F., and are then rubbed with pumice
 and carpet pad until flat. Cut out gold transfers are then fixed with
-transfer varnish and the work is stoved at 185° F. The parts are then
+transfer varnish and the work is stoved at 185Â° F. The parts are then
 sponged and dusted, and are given a good coat of polishing varnish (sp.
 gr. 950) Finally the work is rubbed down fine with glass paper and
 pumice powder and then polished with machine oil and rottenstone powder
@@ -1799,7 +1774,7 @@ the inclined floor adjacent to the tank, and for safety's sake it is
 as well to employ a workman with a brush in his hand to go over each
 piece and remove any tears or runs which may possibly occur. Metal
 work of the description named is then placed in a stove and baked for
-three hours at a temperature of 400° F. The paint is frequently green,
+three hours at a temperature of 400Â° F. The paint is frequently green,
 which is found to be a good serviceable colour and which is attractive
 in appearance. After the baking the paint is quite hard, and will
 withstand more or less rough usage. If any ornamental work is required,
@@ -1824,7 +1799,7 @@ consequence of the high temperature.
 The steel rims of wheels are dipped by hand into a black japan made
 especially for the purpose. They are hung on hooks and allowed to drain
 for some minutes, and are then transferred to the stove, where they
-are subjected to a heat of 320° F. Such parts as ribs, front and rear
+are subjected to a heat of 320Â° F. Such parts as ribs, front and rear
 wings, running boards, shields, etc., are dealt with in the same way.
 
 Previous to dipping, these parts undergo the process known as
@@ -2119,7 +2094,7 @@ slightly with a brush to remove tears, but such work takes only a few
 minutes and is used mostly as a precautionary measure.
 
 One coat is usually found sufficient, and at the proper time the iron
-sheet or metal article is stoved at 250° F. to 300° F. for two hours.
+sheet or metal article is stoved at 250Â° F. to 300Â° F. for two hours.
 Many other articles are also dipped successfully.
 
 
@@ -2147,7 +2122,7 @@ on a hook attached to a slowly travelling chain. This chain runs around
 a rectangular space, and beneath is a metal lined dripping floor. The
 stove is located diagonally from the tank, so that by the time the
 bedstead parts reach it the dripping has ceased and they are ready to
-be baked. The stoving is done at 320° F., and is continued all night.
+be baked. The stoving is done at 320Â° F., and is continued all night.
 One coat is found to be ample.
 
 A very ingenious arrangement is in use for the application of coloured
@@ -2157,7 +2132,7 @@ pulled out when required for use free from the others.
 
 As a rule three coats are given for white work and two for green, blue
 and most other colours. No white lead is used, but only non-poisonous
-colours. The stoving is done mostly overnight at a temperature of 250°
+colours. The stoving is done mostly overnight at a temperature of 250Â°
 F. A little rubbing down between coats is done with very fine glass or
 emery paper. The japans are made by Messrs. Thornley & Knight.
 
@@ -2279,7 +2254,7 @@ when it is lowered into the paint all parts are covered inside and
 out. A few minutes are allowed for dripping, and after two or three
 hours the articles are ready to be stoved. In this case, Messrs. Docker
 Brothers' standard colour, a very pleasing dark green, is used. The
-stoving takes three hours at a temperature of 240° F., or higher in
+stoving takes three hours at a temperature of 240Â° F., or higher in
 some cases. The tank mentioned is, of course, considerably wider than
 that used for casements. The dripping floor is in this case inclined
 toward the centre, which in turn is inclined toward the grating just
@@ -2328,7 +2303,7 @@ It may be observed in this connection that it is important also to
 provide means of adequate ventilation of the apartment. Moisture
 charged air has a bad effect upon paint work. Extreme heat is
 unnecessary, but it is very important that the temperature be
-maintained at a uniform rate, say 60° F. If the room in which the
+maintained at a uniform rate, say 60Â° F. If the room in which the
 painting is done is very hot, the paint will be affected and be likely
 to become too thin for its purpose; while, on the other hand, if the
 room or articles to be painted are very cold, the paint or enamel will
@@ -2387,7 +2362,7 @@ to the floor through fine wire gauze, which is provided with a lifting
 cover by which the amount of air admitted may be regulated.
 
 Immediately over the two air ducts mentioned is a coil of steam
-pipes which heats the air to, say, 110° F. This, of course, causes
+pipes which heats the air to, say, 110Â° F. This, of course, causes
 it to rise toward the ceiling, but the angle between the ceiling and
 wall is rounded off by a cove, so that the current of heated air is
 directed along the ceiling toward the centre of the room where there
@@ -2401,8 +2376,8 @@ attained so that when the drying room is filled up at night before the
 works close it can safely be left until the morning when the drop in
 temperature will not be more than 2 degrees. The steam may be admitted
 at, say, 10 lbs. pressure, but as soon as the room is heated from 2 to
-2½ lbs. will be found to be sufficient. The actual time for heating
-the room to 120° F. is from 15 to 20 minutes.
+2Â½ lbs. will be found to be sufficient. The actual time for heating
+the room to 120Â° F. is from 15 to 20 minutes.
 
 The speed with which work is turned out by this well-considered adjunct
 may be gauged from the fact that a panel may receive one coat of enamel
@@ -2605,7 +2580,7 @@ proportions[1] will furnish a key to the general mixtures used:--
 
 [Footnote 1: The figures given relate to an American gallon, which
 contains 231 cubic inches, while an English imperial gallon contains
-277¼ cubic inches. For practical purposes the latter may be
+277Â¼ cubic inches. For practical purposes the latter may be
 considered one-fifth greater than the former.]
 
 PRIMERS FOR METAL.
@@ -2620,7 +2595,7 @@ PRIMERS FOR HARD WOOD.
 
 PRIMERS FOR SOFT WOOD.
 
-4 to 7 lbs. paste thinned with ½ to ¾ gallon benzine or turpentine,
+4 to 7 lbs. paste thinned with Â½ to Â¾ gallon benzine or turpentine,
 15/32 to 15/64 gallon raw oil, 1/32 to 1/64 gallon varnish.
 
 In some cases, with very soft, porous woods, it may be necessary to add
@@ -2638,7 +2613,7 @@ solids and liquids together and prevent separation; it also induces
 toughness.
 
 It is essential that a varnish be used which will mix perfectly with
-oil and benzine at a temperature of 60° F.
+oil and benzine at a temperature of 60Â° F.
 
 Varnish colours are best thinned with turpentine, but owing to the high
 price of turpentine the large factories insist on using benzine or some
@@ -2682,23 +2657,23 @@ in the following manner:--
 
   100 lbs. of white paste.
    14 gal. turpentine or benzine.
-    ½  "   pale mixing varnish.
-    ¼  "   white liquid drier.
+    Â½  "   pale mixing varnish.
+    Â¼  "   white liquid drier.
 
   WHITE DIP FOR HARD WOOD.
 
   100 lbs. white paste.
    13 gal. turpentine or benzine.
     2  "   raw linseed oil.
-    ¼  "   pale mixing varnish.
-    ½  "   white liquid drier.
+    Â¼  "   pale mixing varnish.
+    Â½  "   white liquid drier.
 
   WHITE DIP FOR SOFT WOOD.
 
   100 lbs. white paste.
    12 gal. turpentine or benzine.
     6  "   raw linseed oil.
-    ¾  "   white liquid drier.
+    Â¾  "   white liquid drier.
 
 The pale mixing varnish and the white liquid drier must not liver with
 lead or zinc, otherwise, the paint in the tank will thicken continually.
@@ -2729,10 +2704,10 @@ substitutes were first placed on the market about 30 years ago, and
 consisted at that time of a mixture of turpentine and kerosene oil.
 Investigations led to the production of white spirit, drying as quickly
 as turpentine, or even quicker if desired. Several grades of this
-material are made, varying in flash-point from 80° up to 150°. The
+material are made, varying in flash-point from 80Â° up to 150Â°. The
 flash-point of genuine turpentine, it may be mentioned in passing, is
-90° to 91°, and the 90° flash-point spirit is the one usually employed
-for painting purposes, although the 80° flash-point would answer
+90Â° to 91Â°, and the 90Â° flash-point spirit is the one usually employed
+for painting purposes, although the 80Â° flash-point would answer
 equally well for dipping. The best grade is practically free from smell
 and is suitable for admixture in all paints, excepting those having a
 bitumastic or asphaltic base, or paints in which very common driers
@@ -2748,7 +2723,7 @@ tests it might be advisable to mix a little spirit with paint and to
 try it experimentally.
 
 In the evaporation of turpentine it is usually admitted that a small
-proportion, say, from ·25 to ·50, is left behind owing to oxidation.
+proportion, say, from Â·25 to Â·50, is left behind owing to oxidation.
 In the case of best white spirit, however, very little residue will
 be left behind, certainly not sufficient quantity to interfere in any
 way with the drying. The use of the spirit has proved so successful
@@ -2868,10 +2843,10 @@ constructed spray than is possible with a hog's hair brush.
 
 The flow of paint is stopped or started instantly, and the amount
 of paint delivered is at all times under perfect control, so that a
-quantity corresponding to that delivered by a ¼-inch brush or pencil
+quantity corresponding to that delivered by a Â¼-inch brush or pencil
 can be increased to the quantity distributed by a 4-inch brush in a
 single stroke. In other words, you have a tool which is the equivalent
-of half a dozen brushes ranging from ¼ inch to 4 inch in width.
+of half a dozen brushes ranging from Â¼ inch to 4 inch in width.
 
 A little practice is, of course, necessary to master the instrument,
 but nothing like the practice which is required for successful painting
@@ -2922,8 +2897,8 @@ In submitting the following figures as to air consumption, the
 Airostyle pistol has been taken as a type:--
 
 For work with a tip and needle of 1 m/m. dia., 1 cub. ft. per minute;
-1½ m/m. dia., 1¾ cub. ft.; 2 m/m. dia., 2½ cub. ft.; 2½ m/m. dia., 3
-cub. ft.; 2½-3 m/m. dia., 3½-4 cub. ft.; 4½ m/m. dia., 5 cub. ft.
+1Â½ m/m. dia., 1Â¾ cub. ft.; 2 m/m. dia., 2Â½ cub. ft.; 2Â½ m/m. dia., 3
+cub. ft.; 2Â½-3 m/m. dia., 3Â½-4 cub. ft.; 4Â½ m/m. dia., 5 cub. ft.
 
 These consumptions naturally vary slightly with the adjustment of the
 nozzle of the pistol, but they are from actual tests and so may be
@@ -3083,7 +3058,7 @@ shellacs than with other materials. It is a matter of common knowledge
 that shellac is very difficult to brush, while, on the other hand, it
 sprays easily. Instead of cutting the gum 4 or 5 pounds to the gallon
 of alcohol, as for brushing, the material is used in the proportion
-of 2½ to 3 pounds of gum to the gallon. The sprayed coat of shellac
+of 2Â½ to 3 pounds of gum to the gallon. The sprayed coat of shellac
 is perfectly smooth and uniform, and requires practically no sanding
 compared with the work necessary to sand a brushed coat.
 
@@ -3139,7 +3114,7 @@ The V spray head shown separately in the above illustration is
 interchangeable with the single nozzle spray head, and can be attached
 to any standard Aeron.
 
-Type G Aeron is illustrated in Fig. 44. The nozzle is ·027 inch in
+Type G Aeron is illustrated in Fig. 44. The nozzle is Â·027 inch in
 diameter This Aeron can also be furnished with other sizes of nozzles
 to special order.
 
@@ -3549,7 +3524,7 @@ breaking the water joint, and be so arranged that they may be taken out
 and replaced in a few seconds.
 
 The main tank must be provided with safety valve drain cock and
-pressure gauge, and the air main, of not less than ¾ in. diameter
+pressure gauge, and the air main, of not less than Â¾ in. diameter
 barrel, preferably steam barrel, must be arranged to travel in a
 downward direction from the main tank towards an end station tank,
 which is a duplicate in miniature of the main tank or receiver. All
@@ -4300,11 +4275,11 @@ Although somewhat expensive it is certainly worthy of all praise,
 because it gives so durable a finish. The iron or steel parts are first
 thoroughly washed in American turpentine and are then stoved, the
 result being a perfectly clean surface. A coat of Calcutta linseed oil
-is then given by means of brushes and the parts are then stoved at 250°
+is then given by means of brushes and the parts are then stoved at 250Â°
 F., after which they receive a coat of what is called "Black Rubber
 Solution," an elastic enamel which dries with a semi-gloss. Then two
 separate coats of khaki colour japan are given and each are stoved at
-280° to 300° F. A little rubbing down between the coats is sometimes
+280Â° to 300Â° F. A little rubbing down between the coats is sometimes
 necessary, and this is done with glass paper. The parts thus finished
 are very suitable for work which is to be subjected to very hard wear.
 At this writing the cycles are all intended for Government, hence the
@@ -4316,7 +4291,7 @@ ELECTRICAL WORK.
 Painting by compressed air is done in the case of many parts of
 electrical apparatus, the process being similar to that previously
 described. Thus the metal work of fuse boxes may be finished in this
-way with black japan, and one coat stoved at 250° F. or thereabouts
+way with black japan, and one coat stoved at 250Â° F. or thereabouts
 will usually be found to suffice.
 
 Among the large number of electric works where the process is employed
@@ -4378,8 +4353,8 @@ and turn-tables are employed having bearing wheels on the outer edge of
 a circular plate. Those used for the larger ranges are usually level
 with the floor. In addition to black, all kinds of colours may be used.
 This work is mostly done piece work. The smaller parts, such as rings,
-cookers, etc., are also sprayed. The stoving is done at 350° F., but
-when two coats are given the first is subjected to 450° F.
+cookers, etc., are also sprayed. The stoving is done at 350Â° F., but
+when two coats are given the first is subjected to 450Â° F.
 
 The interior of the ovens are coated for a finish of oxide of tin,
 which when stoved at a high temperature assures a great increase of
@@ -4409,8 +4384,8 @@ bronze from discoloration, and the manufacturers guarantee that such
 mouldings will last at least 5 years without tarnishing.
 
 The whole of the work is air dried, but to facilitate the operation the
-workroom is kept at a temperature of about 75°F and the drying ovens
-up to, say, 80° or even 85°F. The first coat of enamel is sprayed on,
+workroom is kept at a temperature of about 75Â°F and the drying ovens
+up to, say, 80Â° or even 85Â°F. The first coat of enamel is sprayed on,
 and in about two hours is felted down with a pad similar to that used
 by french polishers. This is dipped in a solvent which removes all
 inequalities. The actual spraying is done on a long open trough shaped
@@ -4423,7 +4398,7 @@ each length is lifted bodily by two boys, one at each end, on to racks
 in the drying room which is close by and which has a large number of
 open iron shelves running from end to end. These shelves are quite
 close together, so that a large number of lengths of moulding may be
-dealt with at one time. Heat at about 85°F is admitted at the bottom,
+dealt with at one time. Heat at about 85Â°F is admitted at the bottom,
 and the drying apartment is open from end to end in front so that the
 mouldings may be readily introduced. This heat also serves to warm the
 room.
@@ -4523,13 +4498,13 @@ The usual procedure followed in connection with enamelling on slate for
 mantel-pieces, stall-board, signs and other work of the kind, is to
 get the slate slabs quite smooth and level by means of a slate planing
 machine. A coat of "black varnish" or enamel is then sprayed on, and
-is stoved at 160° to 170° F. Careful rubbing down with powdered pumice
+is stoved at 160Â° to 170Â° F. Careful rubbing down with powdered pumice
 and water is next done, when the work receives a second coat of enamel.
 It is again stoved and then rubbed down by hand to a finish with
 rottenstone and oil. Sometimes, the slate receives three coats, the
 finish being left with a high gloss, but more frequently the semi-gloss
 obtained by rubbing with rottenstone is preferred. It is unsafe to
-stove slate at higher than 260° F., as it is likely to break when
+stove slate at higher than 260Â° F., as it is likely to break when
 cooling.
 
 Formerly, a great deal of this class of work was done in imitation of
@@ -4819,9 +4794,9 @@ saving, although it is possible that the pure turpentine leaves a
 certain residue behind it which is of advantage in forming a key to the
 subsequent coats. The parts are then stoved, when a coat of pure Baltic
 linseed oil is applied by means of brushes, and they are again stoved
-at 250° F. Then a coat of black japan, known in the works as "rubber
+at 250Â° F. Then a coat of black japan, known in the works as "rubber
 solution," is sprayed on, and a third stoving is given in this case at
-280° F. This is followed by two coats of khaki-coloured enamel sprayed
+280Â° F. This is followed by two coats of khaki-coloured enamel sprayed
 on, which dries with a semi-gloss finish. The parts are stoved between
 each coat and after the final coat, so that they receive five stovings
 altogether.
@@ -5039,7 +5014,7 @@ temperature of the room in which the spraying is done should be
 raised correspondingly, so that the heavier paints, enamel, etc.,
 do not congeal by being directed against a cold surface. Under most
 circumstances it is unnecessary to apply heat, provided that the
-spraying room is kept at a temperature of not less than 60° F. both in
+spraying room is kept at a temperature of not less than 60Â° F. both in
 summer and winter.
 
 As already intimated, the preparation of paints, lacquers and varnishes
@@ -5133,7 +5108,7 @@ package labels, as the various pigments require different temperatures.
 considerably. For this reason, keep the can closed when not actually
 using the enamel.
 
-For thinning purposes we recommend kerosene. Sp. gr. 810 at 60° F.
+For thinning purposes we recommend kerosene. Sp. gr. 810 at 60Â° F.
 
 8. Ovens should be properly ventilated to allow the proper oxidation
 necessary in baking.
@@ -5145,7 +5120,7 @@ It has already been pointed out in these pages that the success of
 painting by dipping, spraying, "flowing on," in fact, all other
 mechanical means, depends upon the exact properties of the materials
 used. The same is true with enamels, which are made from a large
-variety of formulæ so as to dry slowly or quickly in the air, or when
+variety of formulÃ¦ so as to dry slowly or quickly in the air, or when
 subjected to heat in a stove. The author feels he cannot do better than
 take as a guide to the properties of enamels in general the extremely
 useful handbook published by Wilkinson, Heywood and Clark, under the
@@ -5154,7 +5129,7 @@ all the information concerning enamels likely to be required by the
 average user. The products are divided up under different heads, for
 example, one page is headed "Heat Resisting and Slow Drying Enamels."
 These dry fit to handle in 16 hours, and dry bone hard in 24 hours.
-They are made to withstand heat up to 212° F., and for this reason are
+They are made to withstand heat up to 212Â° F., and for this reason are
 suitable for enamelling iron baths, radiators, etc., particularly so
 as to effectively resist hot water without softening or peeling. They
 are made in a number of beautiful colours. A somewhat similar series
@@ -5197,23 +5172,23 @@ BLACK JAPAN FINISHES.
 One or more coats rubbing finish japan, reduced as thin as possible and
 still cover well.
 
-Bake each coat at 250° to 350° for 3 to 4 hours. Sandpaper each coat
+Bake each coat at 250Â° to 350Â° for 3 to 4 hours. Sandpaper each coat
 lightly.
 
 One or more coats finishing black japan reduced to brushing consistency
 (not too thin).
 
-Bake each coat at 300° to 350° for 3 to 4 hours. Sandpaper each coat
+Bake each coat at 300Â° to 350Â° for 3 to 4 hours. Sandpaper each coat
 lightly. Rub the last coat with pumice. Apply transfer and striping to
 last coat of japan.
 
-Bake these at 150° for 1 to 2 hours.
+Bake these at 150Â° for 1 to 2 hours.
 
 One or more coats finishing copal brushed as it comes from the can.
 This protects the transfer and striping and increases the depth of the
 finish.
 
-Bake each coat at 175° for 2 to 3 hours. Rub each coat and polish the
+Bake each coat at 175Â° for 2 to 3 hours. Rub each coat and polish the
 last coat.
 
 If finishing copal is omitted, leave the last coat of japan in gloss,
@@ -5227,20 +5202,20 @@ still cover well. When brushed on, use steel preservative for back and
 underside of metal, one coat only, baked at same time as first coat of
 first coat enamel.
 
-Bake each coat at 250° for 3 hours. Sandpaper each coat lightly. One or
+Bake each coat at 250Â° for 3 hours. Sandpaper each coat lightly. One or
 more coats of finishing enamel.
 
-Bake each coat at 250° for 3 hours. Sandpaper all but the last coat.
+Bake each coat at 250Â° for 3 hours. Sandpaper all but the last coat.
 Rub the last coat with pumice.
 
 Enamels when rubbed have a different colour than the surface colour;
 this must be taken into account in finishing.
 
 Transfer and striping, if any, should be put over last coat of
-finishing enamel. Bake at 150° for 1 to 2 hours. One or more coats of
+finishing enamel. Bake at 150Â° for 1 to 2 hours. One or more coats of
 finishing copal.
 
-Bake each coat at 175° for 2 to 3 hours. Rub each coat, and polish the
+Bake each coat at 175Â° for 2 to 3 hours. Rub each coat, and polish the
 last coat.
 
 If finishing copal is omitted, leave the last coat of enamel in gloss,
@@ -5257,19 +5232,19 @@ preservative, both reduced as thin as possible, and still cover well.
 If the steel preservative is used by dipping, only one coat of ground
 colour is generally used.
 
-Bake each coat at 250° for 3 hours. Sandpaper each coat of ground
+Bake each coat at 250Â° for 3 hours. Sandpaper each coat of ground
 colour. One coat of graining colour, reduced with turpentine brushed
 on, and grained by hand, or with tools as in general graining. This may
 be done by machine or as transfer work.
 
-Bake the graining colour at 200° for 2 to 3 hours. Sandpaper lightly.
+Bake the graining colour at 200Â° for 2 to 3 hours. Sandpaper lightly.
 
 Put on transfer and striping, if any, over last coat of finishing
 enamel.
 
-Bake at 150° for 1 to 2 hours. One or more coats of finishing copal.
+Bake at 150Â° for 1 to 2 hours. One or more coats of finishing copal.
 
-Bake each coat at 175° for 2 to 3 hours. Rub each coat. Rub and polish
+Bake each coat at 175Â° for 2 to 3 hours. Rub each coat. Rub and polish
 the last coat.
 
 In this work, at least one coat of finishing copal is necessary to
@@ -5283,12 +5258,12 @@ has sufficient covering power.
 
 Two or more coats of first coat white enamel.
 
-Bake each coat at 120° to 150° for 3 to 4 hours. Sandpaper each coat
+Bake each coat at 120Â° to 150Â° for 3 to 4 hours. Sandpaper each coat
 lightly.
 
 Two or more coats of finishing white enamel.
 
-Bake each coat at 120° to 150° for 3 to 4 hours. Sandpaper each coat
+Bake each coat at 120Â° to 150Â° for 3 to 4 hours. Sandpaper each coat
 lightly except the last coat.
 
 For gloss finish, leave last coat as it is; for eggshell finish, rub
@@ -5305,7 +5280,7 @@ shows through the varnish, no primer or filler can be used.
 One coat only is applied, usually by brushing or by a coating machine;
 however, it may be dipped or sprayed.
 
-Bake at 225° for 3 hours.
+Bake at 225Â° for 3 hours.
 
 The more these varnishes are reduced, the lighter the colour becomes.
 
@@ -5326,20 +5301,20 @@ does not affect the colour.
 To assure brilliancy of the colour, the following highest heats can be
 used with safety.
 
-  White         160°         4 hours.
-  Pale Blue     175°         2-3  "
+  White         160Â°         4 hours.
+  Pale Blue     175Â°         2-3  "
   Pale Gray      "            "   "
   Pale Green     "            "   "
   Pale Yellow    "            "   "
-  Gray          200°-225°    4-3 hours
+  Gray          200Â°-225Â°    4-3 hours
   Bright Red     "    "       "   "
   Green          "    "       "   "
   Yellow         "    "       "   "
   Dark Blue      "    "       "   "
-  Olive Green   240°-275°    4-3 hours
+  Olive Green   240Â°-275Â°    4-3 hours
   Maroon         "    "       "   "
   Brown          "    "       "   "
-  Black - any heat up to 600°
+  Black - any heat up to 600Â°
 
 COMMENTS ON THE ABOVE.
 
@@ -5501,21 +5476,21 @@ are now brushed. It is the consensus of opinion that a gas fire takes
 To spray one, with a superior finish, takes 30 to 45 seconds, and even
 where some difficulty is experienced in handling, or where it is the
 practice to have the firebricks in place beforehand, so necessitating
-the use of a mask, in no case is a greater time than 1½ to 2 minutes
+the use of a mask, in no case is a greater time than 1Â½ to 2 minutes
 taken. A cycle lamp, small size, takes fully 2 minutes to brush
 properly. To spray the same lamp takes 10 seconds. A gas meter, 5 or 10
-light size, takes 7 minutes to brush. To spray one takes 1½ minutes,
+light size, takes 7 minutes to brush. To spray one takes 1Â½ minutes,
 allowing for the time occupied in fixing and removing the somewhat
 elaborate mask employed for covering the indicator glass, badges,
 name-plate, etc.
 
 A motor headlight takes nearly 20 minutes to brush properly, whereas to
-spray one takes but 1½ minutes at the outside.
+spray one takes but 1Â½ minutes at the outside.
 
 To brush a cycle frame takes 10 minutes or so (brushing is still done
 for coloured work).
 
-To spray either in japan or colours takes 1 to 1½ minutes, and when it
+To spray either in japan or colours takes 1 to 1Â½ minutes, and when it
 is considered that a heavier coat can be applied than is the case when
 brushing or dipping, it will be admitted that such a result compares
 favourably even with dipping.
@@ -5667,7 +5642,7 @@ obtained in two when spraying (and this is frequently the case), then
 spraying must be considered to rank favourably with dipping, and if
 allowance be made for the time taken to drain, and the room occupied
 with an elaborate dipping plant, then again spraying scores, for a
-cycle frame can be sprayed in 1 to 1½ minutes, or, say, 40 to 50 frames
+cycle frame can be sprayed in 1 to 1Â½ minutes, or, say, 40 to 50 frames
 per hour, which is very little, if any, less than can be comfortably
 dealt with by dipping, and, of course, no time is lost in draining.
 
@@ -6187,7 +6162,7 @@ which may be produced by the spray properly used, such as the raised
 panels, the sphere in the middle and the convex and concave portions
 of cylinder. These examples are reproduced, with full acknowledgments,
 from the "Book of Designs" by Chas. J. Strong, of the Detroit School of
-Lettering, Detroit, Mich., U.S.A. The price of this book is £1 ($5.00),
+Lettering, Detroit, Mich., U.S.A. The price of this book is Â£1 ($5.00),
 and it contains an immense number of useful designs suitable for the
 use of sign painters, show card writers and commercial artists. It may
 be had in London from the office of the "Decorator," 365, Birkbeck Bank
@@ -6278,7 +6253,7 @@ stop-cock is also provided.
 The undercoat having been applied the body is allowed to rest for a
 few minutes until the dripping ceases. It is then wheeled on the bogie
 across the room to an oven, in which it remains for one hour at a
-temperature of 160° F. This heat is found to be sufficient to bake the
+temperature of 160Â° F. This heat is found to be sufficient to bake the
 paint but is not high enough to injure the woodwork which, of course,
 forms part of the body. At the expiration of the hour a little stopping
 of inequalities of the surface is usually found necessary, but in any
@@ -6311,7 +6286,7 @@ be practically impossible if the work were not so splendidly systemised.
 
 It should be observed that the varnish is applied in a separate room
 from that used for the application of colour. This is done in order to
-exclude dust, and also to maintain the temperature at 90° F.
+exclude dust, and also to maintain the temperature at 90Â° F.
 
 In considering the essential points of this method of finishing motor
 bodies, it is clear that the system might be successfully applied in
@@ -6797,7 +6772,7 @@ Company shops.
 
 The following is a description of the apparatus referred to:--
 
-It consists of a stout steel cylindrical receptacle 11½in. internal
+It consists of a stout steel cylindrical receptacle 11Â½in. internal
 dia. by 24in. in depth, and having a capacity of about 12 gallons. It
 is supported on a special wheelbarrow of wood with trundling wheel of
 cast iron. The bottom of the receptacle is so low down that it rests
@@ -6907,7 +6882,7 @@ deposit. Sandblasting is sometimes employed to effect this.
 
 Fig. 145 shows an enlargement of the nozzle with the different parts
 marked. The cost of the process is not prohibitive; the cost of the
-metal only on one square foot of a thickness of 0·001 inch is quite
+metal only on one square foot of a thickness of 0Â·001 inch is quite
 small with the cheaper metals. The process is put on the market by the
 British Metal Spray Co., Ltd., Queen Anne's Chambers, Tothill Street,
 Westminster, London, S.W.
@@ -6930,9 +6905,9 @@ gas is merely blown away by the air-jet. It is possible to increase the
 rate of melting by shaping the nozzles so as to leave room for a larger
 cone of flame, and experiments are in progress on this point. There
 is, therefore, a most definite economical quantity of gas which should
-be used in the pistol, this quantity being about 1·5 cubic foot of
-hydrogen per minute, and 0·5 cubic foot of oxygen; or about 0·8 cubic
-foot of coal-gas to 0·65 cubic foot of oxygen for the present standard
+be used in the pistol, this quantity being about 1Â·5 cubic foot of
+hydrogen per minute, and 0Â·5 cubic foot of oxygen; or about 0Â·8 cubic
+foot of coal-gas to 0Â·65 cubic foot of oxygen for the present standard
 designs.
 
 In refractory metals these quantities may be increased slightly, as
@@ -6959,7 +6934,7 @@ practice, and the layer of air must have a certain thickness in order
 to prevent its being broken up, and its velocity destroyed by mixing
 with the surrounding atmosphere.
 
-As at present constructed the standard pistol uses about 0·55 to 0·6
+As at present constructed the standard pistol uses about 0Â·55 to 0Â·6
 cubic foot per minute for every 1 lb. per square inch air pressure,
 so that with an air supply at 80 lb. per square inch, which is a very
 suitable figure for ordinary spraying, the air consumption will be from
@@ -8183,7 +8158,7 @@ _for_
 WRITE FOR CATALOGUE.
 
 
-[Illustration: ESTABLISHED ·1760·]
+[Illustration: ESTABLISHED Â·1760Â·]
 
 If you will come to Homerton to see a practical demonstration of the
 finishing of your own products by the economical Spraying process,
@@ -8376,10 +8351,10 @@ ENLARGED PATTERNS.
 REDUCED PRICES.
 
   No. 6a--Small Size, fed from
-          pail, 5 gallons           £5 5 0
-   "  4--8 gallons                  £8 5 0
-   "  4a On Wheels, same capacity   £9 0 0
-   "  5a--On Wheels, 12 gallons    £11 5 0
+          pail, 5 gallons           Â£5 5 0
+   "  4--8 gallons                  Â£8 5 0
+   "  4a On Wheels, same capacity   Â£9 0 0
+   "  5a--On Wheels, 12 gallons    Â£11 5 0
 
 A. C. WELLS & CO., MIDLAND ROAD, ST. PANCRAS, LONDON.
 
@@ -8574,7 +8549,7 @@ PRACTICAL BOOKS FOR PAINTERS.
 
   GRAINING AND MARBLING, THE PRACTICAL
   ARTS OF. By James Petrie. Each plate measures
-  17-1/2 × 11-1/2 and gives the different stages of the work.
+  17-1/2 Ã— 11-1/2 and gives the different stages of the work.
   Published in 14 parts at 2/6 each, or bound volume
                                                          25/-
 
@@ -8680,366 +8655,4 @@ The caret character (^) has been used to denote superscript.
 End of the Project Gutenberg EBook of Painting by Immersion and by
 Compressed Air, by Arthur Seymour Jennings
 
-*** END OF THIS PROJECT GUTENBERG EBOOK PAINTING BY IMMERSION ***
-
-***** This file should be named 57562-8.txt or 57562-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/5/6/57562/
-
-Produced by Chris Curnow, Alan and the Online Distributed
-Proofreading Team at http://www.pgdp.net (This file was
-produced from images generously made available by The
-Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 57562 ***
